@@ -8,7 +8,7 @@ import {RiHtml5Fill,RiReactjsFill} from 'react-icons/ri';
 import {DiCss3,DiReact} from 'react-icons/di';
 import {IoLogoJavascript,IoCamera} from 'react-icons/io5';
 import {FaNodeJs,FaPython,FaJava} from 'react-icons/fa';
-import {SiPytorch,SiCplusplus,SiKotlin,SiPowershell} from 'react-icons/si';
+import {SiPytorch,SiCplusplus,SiKotlin,SiGnubash} from 'react-icons/si';
 import {GiForestCamp,GiElectricalResistance} from 'react-icons/gi';
 import {HiArrowRight} from 'react-icons/hi';
 
@@ -111,7 +111,7 @@ function HomePG(){
                             <SiCplusplus color="01426a" size="60px"/>
                             <p>C++</p>
                             <p>
-                                For embaded<br/>
+                                For embedded<br/>
                                 system and more
                             </p>
                         </div>
@@ -143,15 +143,15 @@ function HomePG(){
                             <FaPython color="#4b8bbe" size="60px"/>
                             <p>Python</p>
                             <p>
-                                For multipul<br/>
+                                For multiple<br/>
                                 Projects...
                             </p>
                         </div>
                         <div className="skill">
-                            <SiPowershell color="#77216f" size="60px"/>
-                            <p>Powershell</p>
+                            <SiGnubash color="#77216f" size="60px"/>
+                            <p>Bash</p>
                             <p>
-                                For eathical<br/> 
+                                For ethical<br/> 
                                 hacking and more
                             </p>
                         </div>
