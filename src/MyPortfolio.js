@@ -46,7 +46,7 @@ function MyPortfolio(){
                 <h1>My Projects</h1>
                 <p>
                     Learning the theory is good for passing the theoretical exam, 
-                    but applying your knowledge with practical skills on your project is AWESOME!!
+                    but applying your knowledge with practical skills to your project is AWESOME!!
                 </p>
             </div>
             <div className="projectList">

@@ -46,11 +46,10 @@ function HomePG(){
                             play with new things. 
                         </p>
                         <p>
-                            I don't only sit in front of the Computer and run my fingers 
-                            through all the keys I have a different passion too like 
-                            exploring new places and see the beauty which is been shown 
-                            by nature and I am a nature photographer too and love to 
-                            meet new peoples and have a great conversation with peoples.
+                            I not only sit in front of the Computer and run my fingers through 
+                            all the keys I have a different passion too like exploring new places 
+                            and see the beauty which is been shown by nature and I capture nature 
+                            glimpses too and I love to meet people and like to interact with them.
                         </p>
                         <br/>
                         <p>
